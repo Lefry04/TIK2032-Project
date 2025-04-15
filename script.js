@@ -1,4 +1,7 @@
 window.addEventListener('load', () => {
+
+    alert("Selamat datang di portofolio saya!!!");
+
     const text1 = "Haiiii, Saya";
     const text2 = "Lefry Ariyo Mandang";
     const text3 = "FRONT END DEVELOPER";
